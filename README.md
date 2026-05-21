@@ -25,6 +25,6 @@ Hands-on blocks where participants apply the tools to their own materials.
 
 1. **A referee report on your paper.** Live demo and hands-on with the `$review-paper` skill — six subagents running in parallel on a draft.
 2. **Organising a conference.** Building a conference budget from a call for papers as a worked example of admin tasks.
-3. **Building a `voice.md` file.** Using the `voice-extractor` skill to capture your own prose style so future edits sound like you.
+3. **Building a `voice.md` file.** Using the `voice-extractor` skill from Mihail Velikov to capture your own prose style so future edits sound like you.
 4. **Slides and websites.** Generating Beamer decks and standalone HTML sites from project folders, with a shared `slides-style.md`.
 5. **Implications and getting started.** What changes for academic work as friction drops, verification habits, disclosure and data-handling norms, and three things to try on Monday.
